@@ -42,5 +42,5 @@ $T(n) \leq c*\log_{2}(n)$
 
 => $T(n) \leq c*\log_{2}(n)$
 
-This shows that $\log_{2} n$ and $\log_{5} n$ are equivalent.
+This shows that $O(\log_{2} n)$ is the same as $O(\log_{5} n)$ through transformation.
 
