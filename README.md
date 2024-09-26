@@ -32,3 +32,5 @@ Then we use the change of base formula $\log_{a}(b)= \frac{(\log_{c}(b))}{(log_{
 
 This changes the latter portion to $T(n) \leq c*\frac{(\log_{5}(n))}{(log_{5}(2))}$
 
+Simplifies down to $T(n) \leq c*\log_{5}(n)$ because the demoninato was a constant.
+
