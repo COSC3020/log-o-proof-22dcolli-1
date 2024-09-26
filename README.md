@@ -30,5 +30,5 @@ $T(n) \in O(\log_{2}(n))$ with the latter half of the definition being $T(n) \le
 
 Then we use the change of base formula $\log_{a}(b)= \frac{(\log_{c}(b))}{(log_{c}(a))}$ (reminded of this by looking at past repository)
 
-This changes the latter portion to $T(n) \leq c*\frac{(\log_{5}(n))}{(log_{5}(2$
+This changes the latter portion to $T(n) \leq c*\frac{(\log_{5}(n))}{(log_{5}(2)$
 
