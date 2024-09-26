@@ -28,3 +28,5 @@ Start with a substitution (just have to pick either $\log_{2} n$ or $\log_{5} n$
 
 $T(n) \in O(\log_{2}(n))$ with the latter half of the definition being $T(n) \leq c*\log_{2}(n)$
 
+Then we use the change of base formula $\log_{a}(b)= \frac{(\log_{c}(b))}{(log_{c}(a))}$ (reminded of this by looking at past repository)
+
