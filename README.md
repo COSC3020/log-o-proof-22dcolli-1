@@ -21,7 +21,10 @@ otherwise. I am aware that plagiarism carries severe penalties and that if plagi
 suspected, charges may be filed against me without prior notice.”
 
 ## Note
-I am attempting this from scratch, I did however, check it against last semesters answer before submitting.
+I am attempting this from scratch, I did however, check it against last semesters answer before submitting. I am trying to work on conciseness.
 
 ## Answer
-Start with a substitution (just have to pick either $\log_{2} n$ or $\log_{5} n$ but it doesn't matter which one)
+Start with a substitution (just have to pick either $\log_{2} n$ or $\log_{5} n$ but it doesn't matter which one), this will look like:
+
+$T(n) \in O(\log_{2})$
+
