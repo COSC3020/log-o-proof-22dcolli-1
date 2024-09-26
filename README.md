@@ -38,9 +38,9 @@ $T(n) \leq c*\log_{5}(n)$ is exactly what we wer looking to find, but we also ne
 
 $T(n) \leq c*\log_{2}(n)$
 
-=>$T(n) \leq c*\frac{(\log_{2}(n))}{(log_{2}(5))}$
+=> $T(n) \leq c*\frac{(\log_{2}(n))}{(log_{2}(5))}$
 
-=>$T(n) \leq c*\log_{2}(n)$
+=> $T(n) \leq c*\log_{2}(n)$
 
 This shows that $\log_{2} n$ and $\log_{5} n$ are equivalent.
 
