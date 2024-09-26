@@ -24,4 +24,4 @@ suspected, charges may be filed against me without prior notice.”
 I am attempting this from scratch, I did however, check it against last semesters answer before submitting.
 
 ## Answer
-Start with substitution(just have to pik either $O(\log_{2} n)$ or $O(\log_{5} n)$ but it doesn't matter which one)
+Start with a substitution (just have to pick either $\log_{2} n$ or $\log_{5} n$ but it doesn't matter which one)
