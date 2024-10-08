@@ -44,6 +44,10 @@ Starting again with $T(n) \leq c*\log_{5}(n)$
 
 $=>T(n) \leq c*\frac{(\log_{2}(n))}{(log_{2}(5))}$
 
+$=>T(n) \leq c*\frac{1}{(log_{2}(5))} * \log_{2}(n)$
+
+$=>T(n) \leq \frac{c}{(log_{2}(5))} * \log_{2}(n)$
+
 $=>T(n) \leq c*\log_{2}(n)$
 
 This shows that $O(\log_{2} n)$ is the same as $O(\log_{5} n)$ through transformation.
