@@ -34,6 +34,8 @@ This changes the latter portion to $T(n) \leq c*\frac{(\log_{5}(n))}{(log_{5}(2)
 
 Which is the same as $T(n) \leq c*\frac{1}{log_{5}(2)} * \log_{5}(n)$
 
+And we can alter it to combine the two constant portions $T(n) \leq \frac{c}{log_{5}(2)} * \log_{5}(n)$
+
 Simplifies down to $T(n) \leq c*\log_{5}(n)$ because the demoninator was a constant.
 
 $T(n) \leq c*\log_{5}(n)$ is exactly what we wer looking to find, but we also need to show that this wasn't a one way fluke, so we go back and start with $\log_{5}$.
